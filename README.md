@@ -2,8 +2,8 @@
     Compress the CSS code to be simpler and add notes.
 
 # Built with
-    * HTML
-    * CSS
+* HTML
+* CSS
 
 # Website
     https://github.com/bgals/Horiseon/tree/master
