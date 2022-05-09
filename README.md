@@ -1,12 +1,12 @@
-##Purpose
+# Purpose
     Compress the CSS code to be simpler and add notes.
 
-##Built with
+# Built with
     * HTML
     * CSS
 
-##Website
+# Website
     https://github.com/bgals/Horiseon/tree/master
 
-##Contribution
+# Contribution
     Made  by Beth Gallen
